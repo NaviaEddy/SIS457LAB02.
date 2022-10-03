@@ -1,0 +1,14 @@
+﻿  Ammunition.cpp
+  Principal.cpp
+E:\USFX\4to Semestre\SIS457-R\SClassGame\ClassGame\Principal.cpp(2,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+E:\USFX\4to Semestre\SIS457-R\SClassGame\ClassGame\Principal.cpp(4,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+E:\USFX\4to Semestre\SIS457-R\SClassGame\ClassGame\Principal.cpp(5,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+E:\USFX\4to Semestre\SIS457-R\SClassGame\ClassGame\Principal.cpp(6,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+E:\USFX\4to Semestre\SIS457-R\SClassGame\ClassGame\Principal.cpp(7,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+E:\USFX\4to Semestre\SIS457-R\SClassGame\ClassGame\Principal.cpp(8,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+E:\USFX\4to Semestre\SIS457-R\SClassGame\ClassGame\Principal.cpp(9,10): warning C4067: símbolos (token) inesperados después de la directiva del preprocesador; se esperaba una nueva línea
+E:\USFX\4to Semestre\SIS457-R\SClassGame\ClassGame\Principal.cpp(28,15): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\USFX\4to Semestre\SIS457-R\SClassGame\ClassGame\Principal.cpp(31,22): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+E:\USFX\4to Semestre\SIS457-R\SClassGame\ClassGame\Principal.cpp(34,37): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Generando código...
+  ClassGame.vcxproj -> E:\USFX\4to Semestre\SIS457-R\SClassGame\x64\Debug\ClassGame.exe

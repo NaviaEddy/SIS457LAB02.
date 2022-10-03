@@ -1,0 +1,43 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.33.31630.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///e:/usfx/4to semestre/sis457-r/sclassgame/classgame/enemy.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "69ed73d03901af3fdaea917dd7dc643e2b2887c523cb807b4daa85779dd37363"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///e:/usfx/4to semestre/sis457-r/sclassgame/classgame/enemy.h"
+          },
+          "hashes": {
+            "sha-256": "ae33ba90639e1d83ee5b68975c52355c11c6d7201b25c974a2a870a172301742"
+          }
+        }
+      ]
+    }
+  ]
+}
